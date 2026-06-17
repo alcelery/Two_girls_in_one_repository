@@ -9,3 +9,6 @@
 
 ![03](screenshots/03_first_push.png)
 ### Рис. 3 Первый push
+
+![04](screenshots/04_pull_sdfpzxc.png)
+### Рис. 4 Скриншот получения изменений
