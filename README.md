@@ -1,4 +1,8 @@
 # Two_girls_in_one_repository
 
-<img width="486" height="308" alt="image" src="https://github.com/user-attachments/assets/8acdfed7-83e3-4e7c-ae47-957a2f0822c3" />
-Рисунок 1 — Добавление участников в репозиторий
+![01](screenshots/01_collaborators.png)
+### 1. Добавление участников в репозиторий
+
+![02](screenshots/02_clone_alcelery.png)
+![02](screenshots/02_clone_sdfzxc.png)
+### 2. Скриншоты открытых проектов участников
