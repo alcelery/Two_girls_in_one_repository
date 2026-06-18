@@ -1,16 +1,13 @@
 # Two_girls_in_one_repository
 
-<<<<<<< HEAD
  ## Используемые инструменты
  
 - Git;
 - GitHub;
 - VS Code.
 
-=======
 ## Описание
 Это учебный командный проект для практики GitHub.
->>>>>>> 535ea11da55b4f008f0e71dc0a32844ae48ab9d4
 
 ![01](screenshots/01_collaborators.png)
 ### Рис. 1 Добавление участников в репозиторий
@@ -24,3 +21,9 @@
 
 ![04](screenshots/04_pull_sdfpzxc.png)
 ### Рис. 4 Скриншот получения изменений
+
+![05](screenshots/05_commit_history.png)
+### Рис. 5 Скриншот истории коммитов
+
+![06](screenshots/06_push_rejected.png)
+### Рис. 6 Отверженеие коммита 
