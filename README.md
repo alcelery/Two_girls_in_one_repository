@@ -40,3 +40,12 @@
 
 ![08](screenshots/08_conflict_resolved.png)
 ### Рис. 8 Конфликт слияния решен
+
+![09](screenshots/09_pull_request.png)
+### Рис. 9 Создание пулл риквеста
+
+![10](screenshots/10_pull_request_review.png)
+### Рис. 10 Проверка пулл риквеста
+
+![11](screenshots/11_pull_request_merged.png)
+### Рис. 11 Слияние пулл риквеста с мейн веткой
