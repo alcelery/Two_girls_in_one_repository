@@ -1,5 +1,12 @@
 # Two_girls_in_one_repository
 
+ ## Используемые инструменты
+ 
+- Git;
+- GitHub;
+- VS Code.
+
+
 ![01](screenshots/01_collaborators.png)
 ### Рис. 1 Добавление участников в репозиторий
 
