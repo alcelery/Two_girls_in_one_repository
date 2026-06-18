@@ -1,5 +1,8 @@
 # Two_girls_in_one_repository
 
+## Описание
+Это учебный командный проект для практики GitHub.
+
 ![01](screenshots/01_collaborators.png)
 ### Рис. 1 Добавление участников в репозиторий
 
